@@ -2,7 +2,7 @@
 source <(curl -fsSL https://raw.githubusercontent.com/ben-amberowl/ProxmoxVE_LibreChatFix/main/misc/build.func)
 # Copyright (c) 2021-2026 community-scripts ORG
 # Author: MickLesk (CanbiZ)
-# License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# License: MIT | https://github.com/ben-amberowl/ProxmoxVE_LibreChatFix/raw/main/LICENSE
 # Source: https://github.com/danny-avila/LibreChat
 
 APP="LibreChat"
