@@ -13,7 +13,7 @@ setting_up_container
 network_check
 update_os
 
-MONGO_VERSION="8.0" setup_mongodb
+MONGO_VERSION="8.0.4" setup_mongodb
 setup_meilisearch
 PG_VERSION="17" PG_MODULES="pgvector" setup_postgresql
 PG_DB_NAME="ragapi" PG_DB_USER="ragapi" PG_DB_EXTENSIONS="vector" setup_postgresql_db
